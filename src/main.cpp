@@ -113,4 +113,5 @@ void loop() {
 #endif // HUMAN_READABLE_OUTPUT
 
     Serial.println();
+    delay(50);
 }
