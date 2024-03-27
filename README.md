@@ -1,4 +1,8 @@
 # Mitutoyo SPC Data Reader for Arduino
+
+Based off of Mitutoyo SPC Data Reader for Arduino by Roger-random.
+
+
 Use an Arduino Nano to translate Mitutoyo Digitmatic SPC data to USB serial
 for easy consumption by
 [Node-RED](https://flows.nodered.org/node/node-red-node-serialport)
