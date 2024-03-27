@@ -24,4 +24,4 @@ which uses a Mitutoyo micrometer instead of plunge-style indicator like the
 543-783B, and output to VGA which is not needed for this project.
 
 Project schematic:
-![Mitutoyo SPC Arduino serial schematic](schematic.png)
+https://github.com/rlp122/Arduino-Nano-Mitutoyo-SPC-to-RS-232-convertor/blob/master/Schematic.png
